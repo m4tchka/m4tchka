@@ -9,32 +9,32 @@ Training to be a full stack developer...
 - HTML/CSS 
 - Javascript
 - NodeJS
+- React
 - Express
 - PostgreSQL
-- Heroku 
-- Netlify 
+- Heroku/ Netlify 
 - Testing Libraries:
 	+ Jest
 	+ Cypress
 	+ Supertest
 	+ React Testing Library
 
-## 💻 I'm currently working on...
+## 💻 Currently working on...
 - Finishing the School of Code (SoC) Bootcamp 12
 	+ 12 / 16 weeks complete
 - Making a VN in React
 - Deploying my group's SoC week 9 project on Heroku + Netlify
 
-## 🧠 I'm  learning...
+## 🧠 Learning...
 - Go
 - TypeScript
 - XState npm library (specifically as a FSM package for VN)
 - Python (not currently)
 - MS Azure AZ-900 Fundamentals module (not currently)
 
-## 👯‍ I'm looking to collaborate on...
+## 👯‍ Looking to collaborate on...
 
-## 🤔 I'm looking for help with...
+## 🤔 Looking for help with...
 - Saving Firefox bookmarks' metadata when exporting
 
 ## 💬 Ask me about...
