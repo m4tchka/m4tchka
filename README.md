@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=m4tchka"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4tchka&layout=compact)](https://github.com/m4tchka/github-readme-stats)
 
 ## 🚀 About Me
 Training to be a full stack developer...
