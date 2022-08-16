@@ -44,6 +44,6 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/m4tchka)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4tchka)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m4tchka&label=Profile%20views&style=flat" alt="m4tchka"/></p>
