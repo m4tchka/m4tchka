@@ -26,7 +26,6 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://testing-library.com/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/IcHYe__testing-library.svg" alt="testing-library" width="40" height="40"/> </a>
 
-
 ## 💻 Currently working on...
 - Learning Data Structures & Algorithms
 - Learning Go Programming Language
@@ -36,19 +35,3 @@
 ## 🧠 Learning...
 <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="go" width="40" height="40"/> </a>
-
-### Looking to start learning in the near future:
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-
-## 🤔 Looking for help with...
-- Saving Firefox bookmarks' metadata when exporting
-
-## 📫 How to reach me...
-**Discord**: 360NS#5397
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4tchka)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m4tchka&label=Profile%20views&style=flat" alt="m4tchka"/></p>
